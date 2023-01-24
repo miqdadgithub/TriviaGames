@@ -1,2 +1,2 @@
 # TriviaGames
-Madlibs, Mineswiper, ..
+Madlibs, Minesweeper, hangman, ..
